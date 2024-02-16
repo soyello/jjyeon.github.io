@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 정재연
-title: Backend engineer
+title: Backend engineer, QA
 email: wodus9193@naver.com
 # email_title: Email (Email title override)
 phone: 010-5371-9412
@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/19941212 정재연.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
